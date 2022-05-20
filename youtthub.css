@@ -1,13 +1,8 @@
-.search-box{
-    width: 200px;
-    height: 20px;
-    margin-bottom: 20px;
-    display: block;
-}
+
 
 .template{
     display: grid;
-    height: 270px;
+    height: 300px;
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 20px;
     
@@ -20,17 +15,16 @@
 }
 
 .thumbnail{
-    height: 200px;
+    height: 210px;
     width: 100%;
 }
 
 .profile{
-    height: 70px;
+    height: 90px;
     width: 100%;
-    border-radius: 10px;
+    padding-top: 10px;
 }
 
 .author{
     height: 70px;
-    background-color: lightgray;
 }
