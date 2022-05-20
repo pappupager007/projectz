@@ -1,0 +1,36 @@
+.search-box{
+    width: 200px;
+    height: 20px;
+    margin-bottom: 20px;
+    display: block;
+}
+
+.template{
+    display: grid;
+    height: 270px;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 20px;
+    
+}
+
+.video-box{
+    display: grid;
+    width: 100%;
+   
+}
+
+.thumbnail{
+    height: 200px;
+    width: 100%;
+}
+
+.profile{
+    height: 70px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.author{
+    height: 70px;
+    background-color: lightgray;
+}
